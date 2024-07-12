@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF6200EE</color>
+    <color name="primary_variant">#FF3700B3</color>
+    <color name="accent_color">#FF009688</color>
+    <color name="secondary">#FF03DAC5</color>
+    <color name="secondary_variant">#FF018786</color>
+    <color name="background_start">#FFFDF5E6</color>
+    <color name="background_end">#FFFFF0F5</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="on_surface">#FF000000</color>
+    <color name="on_background">#FF000000</color>
+    <color name="text_primary">#FF212121</color>
+    <color name="text_secondary">#FF757575</color>
+    <color name="card_stroke">#20000000</color>
+</resources>
