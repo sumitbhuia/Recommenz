@@ -1,3 +1,5 @@
+
+![iconS](https://github.com/user-attachments/assets/ba142cc0-7cb1-44b4-8109-cea30e210c56)
 # Recommenz 🎬
 Recommenz is a sleek and intuitive movie recommendation app that helps you discover your next favorite film. Leveraging the powerful TMDB (The Movie Database) API, Recommenz fetches the latest and most popular movies, providing you with personalized suggestions tailored to your taste.
 
